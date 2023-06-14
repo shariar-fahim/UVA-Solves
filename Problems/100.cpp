@@ -26,7 +26,7 @@ int main()
             if(ans>=sum)
                 sum=ans;
         }
-        printf("%d\n",sum);
+        printf("%d\n",sum); 
     }
     return 0;
 }
