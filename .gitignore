@@ -1,5 +1,6 @@
 *.exe
 *.o
 *.vscode
-test.c
-testt.cpp
+*.txt
+Problems/test.c
+Problems/testt.cpp
